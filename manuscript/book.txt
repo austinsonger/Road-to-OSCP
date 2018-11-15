@@ -1,7 +1,7 @@
-1.0 Preparation.md
-2.0 Information Gathering.md
-3.0 Buffer Overflow.md
-4.0 Exploitation.md
-5.0 Post-Exploitation.md
-6.0 Additional.md
-7.0 Reporting.md
+1.0.Preparation.md
+2.0.Information.Gathering.md
+3.0.Buffer.Overflow.md
+4.0.Exploitation.md
+5.0.Post-Exploitation.md
+6.0.Additional.md
+7.0.Reporting.md
